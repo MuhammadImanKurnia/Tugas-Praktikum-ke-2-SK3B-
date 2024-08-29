@@ -10,14 +10,15 @@
 7. sudo apt-get upgrade : untuk mengupgarde semua package yang sudah terinstall pada sistem
 ![Screenshot from 2024-08-29 09-01-39](https://github.com/user-attachments/assets/8744f083-8ada-4e46-a7de-2e316b5383fc)
 9. exit : untuk keluar dari terminal
+![Screenshot from 2024-08-29 17-24-23](https://github.com/user-attachments/assets/59745798-e590-49b2-bb1e-0c2046e416b8)
+11. cd : untuk berpindah dari satu direktori ke direktori lain dalam sistem file. Misalnya, jika saya ketik "cd Downloads/", maka akan berpindah ke direktory Downloads
 
-11. cd Downloads/ : untuk memeriksa direktory dengan nama Downloads
-12. dir : untuk menampilkan daftar file yang ada di direktory yang sedang diperiksa. Contohnya direktory yang di Downloads
-13. mkdir "op warnet" : untuk membuat direktory baru dengan nama op warnet
-14. history : untuk menampilkan riwayat command prompt yang sudah kita gunakan
-15. sudo apt install net-tools : untuk menginstall tools internet agar bisa menggunakan command prompt ifconfig dan yang lainnya
-16. ifconfig : untuk melihat ip address pada perangkat kita
-17. ping 10.0.2.15 : untuK mengecek koneksi pada ip tersebut
-18. netstat -a : untuk menampilkan daftar koneksi dengan detail
-19. route : untuk mempilkan daftar routing
-20. free : untuk menampilkan penggunaan memory
+13. dir : untuk menampilkan daftar file yang ada di direktory yang sedang diperiksa. Contohnya direktory yang di Downloads
+14. mkdir "op warnet" : untuk membuat direktory baru dengan nama op warnet
+15. history : untuk menampilkan riwayat command prompt yang sudah kita gunakan
+16. sudo apt install net-tools : untuk menginstall tools internet agar bisa menggunakan command prompt ifconfig dan yang lainnya
+17. ifconfig : untuk melihat ip address pada perangkat kita
+18. ping 10.0.2.15 : untuK mengecek koneksi pada ip tersebut
+19. netstat -a : untuk menampilkan daftar koneksi dengan detail
+20. route : untuk mempilkan daftar routing
+21. free : untuk menampilkan penggunaan memory
