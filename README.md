@@ -3,6 +3,7 @@ lsb_release -a : untuk mengecek versi linux yang kita install
 clear : untuk menghapus command prompt yang sudah kita tulis di terminal
 pwd : untuk menampilkan direktori kerja kita saat ini. Contohnya : /home/muhammad-iman-kurnia
 sudo apt-get update : untuk mengupdate daftar package terbaru dari repository
+![Screenshot from 2024-08-29 09-00-51](https://github.com/user-attachments/assets/7e5e9cff-06d4-499e-b648-6d90961ced8f)
 sudo apt-get upgrade : untuk mengupgarde semua package yang sudah terinstall
 exit : untuk keluar dari terminal
 cd Downloads/ : untuk memeriksa direktory dengan nama Downloads
