@@ -4,8 +4,8 @@
 2. clear : untuk menghapus command prompt yang sudah kita tulis di terminal
 ![Screenshot from 2024-08-29 16-39-56](https://github.com/user-attachments/assets/c9b4bc72-a8c5-4bc2-ab82-1ee0959348d1)
 3. pwd : untuk menampilkan direktori kerja kita saat ini. Saya sedang berada di direktori "/home/Muhammad-Iman-Kurnia, ketika saya menjalankan command pwd, maka tampilannya :
-
-6. sudo apt-get update : untuk mengupdate daftar package terbaru dari repository
+![Screenshot from 2024-08-29 16-50-03](https://github.com/user-attachments/assets/11f1b132-7301-4176-a7e3-e66d55426fd7)
+4. sudo apt-get update : untuk mengupdate daftar package terbaru dari repository
 ![Screenshot from 2024-08-29 09-00-51](https://github.com/user-attachments/assets/7e5e9cff-06d4-499e-b648-6d90961ced8f)
 7. sudo apt-get upgrade : untuk mengupgarde semua package yang sudah terinstall
 8. exit : untuk keluar dari terminal
