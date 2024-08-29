@@ -14,9 +14,9 @@
 7. cd : untuk berpindah dari satu direktori ke direktori lain dalam sistem file. Misalnya, jika saya ketik "cd Downloads/", maka akan berpindah ke direktory Downloads
 ![Screenshot from 2024-08-29 17-50-27](https://github.com/user-attachments/assets/998cd633-0b39-4f01-88b6-45950f2b0962)
 8. dir : untuk menampilkan daftar file dan direktori dalam direktori saat ini
-
-Jika kita ingin memeriksa file yang ada di direktori Downloads, maka kita harus masuk ke direktori tersebut dengan cara mengetik "cd Downloads/, lalu kita dir
-
+![Screenshot from 2024-08-29 17-58-16](https://github.com/user-attachments/assets/a0d3a947-d847-45e9-8db9-78cec9524444)
+Jika kita ingin memeriksa file yang ada di direktori Downloads, maka kita harus masuk ke direktori tersebut dengan cara mengetik "cd Downloads/, lalu kita ketik "dir"
+![Screenshot from 2024-08-29 18-01-33](https://github.com/user-attachments/assets/e05cd729-8f72-4460-a1be-c0aa549adf2b)
 14. mkdir "op warnet" : untuk membuat direktory baru dengan nama op warnet
 15. history : untuk menampilkan riwayat command prompt yang sudah kita gunakan
 16. sudo apt install net-tools : untuk menginstall tools internet agar bisa menggunakan command prompt ifconfig dan yang lainnya
