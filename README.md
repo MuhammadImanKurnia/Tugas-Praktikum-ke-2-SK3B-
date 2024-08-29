@@ -7,13 +7,16 @@
 ![Screenshot from 2024-08-29 16-50-03](https://github.com/user-attachments/assets/11f1b132-7301-4176-a7e3-e66d55426fd7)
 4. sudo apt-get update : untuk mengupdate daftar package terbaru dari repositori yang ada di sistem
 ![Screenshot from 2024-08-29 09-00-51](https://github.com/user-attachments/assets/7e5e9cff-06d4-499e-b648-6d90961ced8f)
-7. sudo apt-get upgrade : untuk mengupgarde semua package yang sudah terinstall pada sistem
+5. sudo apt-get upgrade : untuk mengupgarde semua package yang sudah terinstall pada sistem
 ![Screenshot from 2024-08-29 09-01-39](https://github.com/user-attachments/assets/8744f083-8ada-4e46-a7de-2e316b5383fc)
-9. exit : untuk keluar dari terminal
+6. exit : untuk keluar dari terminal
 ![Screenshot from 2024-08-29 17-24-23](https://github.com/user-attachments/assets/59745798-e590-49b2-bb1e-0c2046e416b8)
-11. cd : untuk berpindah dari satu direktori ke direktori lain dalam sistem file. Misalnya, jika saya ketik "cd Downloads/", maka akan berpindah ke direktory Downloads
+7. cd : untuk berpindah dari satu direktori ke direktori lain dalam sistem file. Misalnya, jika saya ketik "cd Downloads/", maka akan berpindah ke direktory Downloads
+![Screenshot from 2024-08-29 17-50-27](https://github.com/user-attachments/assets/998cd633-0b39-4f01-88b6-45950f2b0962)
+8. dir : untuk menampilkan daftar file dan direktori dalam direktori saat ini
 
-13. dir : untuk menampilkan daftar file yang ada di direktory yang sedang diperiksa. Contohnya direktory yang di Downloads
+Jika kita ingin memeriksa file yang ada di direktori Downloads, maka kita harus masuk ke direktori tersebut dengan cara mengetik "cd Downloads/, lalu kita dir
+
 14. mkdir "op warnet" : untuk membuat direktory baru dengan nama op warnet
 15. history : untuk menampilkan riwayat command prompt yang sudah kita gunakan
 16. sudo apt install net-tools : untuk menginstall tools internet agar bisa menggunakan command prompt ifconfig dan yang lainnya
