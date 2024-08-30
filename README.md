@@ -156,3 +156,9 @@ Kelas : SK3B
 48. shutdown : untuk mematikan atau me-restart sistem dengan cara yang aman
     ![Screenshot from 2024-08-30 14-56-43](https://github.com/user-attachments/assets/d0c2d778-a8f8-4e7e-82ba-983138b057cf)
 
+49. top : untuk menampilkan semua aplikasi yang berjalan
+    ![Screenshot from 2024-08-30 14-59-23](https://github.com/user-attachments/assets/650c9da7-dc5b-46e1-9b3b-c074f76f7d38)
+
+50. df : untuk menampilkan informasi tentang penggunaan disk pada sistem file
+    ![Screenshot from 2024-08-30 15-02-04](https://github.com/user-attachments/assets/9c46dee6-5c28-48f0-990a-15849755982a)
+
