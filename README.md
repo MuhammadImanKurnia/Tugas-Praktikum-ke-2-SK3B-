@@ -114,4 +114,45 @@ Kelas : SK3B
 34. cat : untuk menunjukkan isi dari sebuah file
     ![Screenshot from 2024-08-30 11-20-08](https://github.com/user-attachments/assets/4aa6e35b-aec7-4936-90af-400f60e4a195)
 
-35. 
+35. hostname : untuk menampilkan atau mengatur nama host sistem
+    ![Screenshot from 2024-08-30 13-18-10](https://github.com/user-attachments/assets/6b7429b8-3bb2-46ae-bc6f-1ceaf83727bd)
+
+36. whoami : untuk menampilkan nama pengguna saat ini yang sedang aktif dalam sesi terminal
+    ![Screenshot from 2024-08-30 13-19-18](https://github.com/user-attachments/assets/f10085a8-095f-48bc-8610-c08a3c100127)
+
+37. uname : untuk menampilkan informasi tentang sistem operasi dan kernel yang sedang berjalan
+    ![Screenshot from 2024-08-30 13-19-32](https://github.com/user-attachments/assets/fdc8b9d3-6157-4099-973b-51ea8d25abcd)
+
+38. date : untuk menampilkan atau mengatur tanggal dan waktu sistem
+    ![Screenshot from 2024-08-30 13-19-41](https://github.com/user-attachments/assets/9ed57414-b52e-4213-a671-777876b0b026)
+
+39. sudo apt install ncal :  untuk menginstal paket yang berisi utilitas ncal
+    ![Screenshot from 2024-08-30 13-37-17](https://github.com/user-attachments/assets/d2468d1b-4ddf-4c7c-8165-84f258f524eb)
+
+40. cal : untuk menampilkan kalender bulanan atau tahunan di terminal
+    ![Screenshot from 2024-08-30 13-37-52](https://github.com/user-attachments/assets/5c138eba-d03c-4cc3-bb06-1d90f0198364)
+
+41. whereis : untuk menemukan lokasi file binary, source, dan manual dari sebuah perintah atau aplikasi. Jika kita ingin mencari lokasi ls, maka kita        ketik whereis ls, ini akan menunjukkan lokasi file binary, halaman manual, dan mungkin lokasi source code terkait dengan perintah ls
+    ![Screenshot from 2024-08-30 13-47-00](https://github.com/user-attachments/assets/ba8a344b-0a3e-44f9-a16f-4ed9541f4d01)
+
+42. whatis : untuk menampilkan deskripsi singkat dari sebuah perintah, fungsi, atau file manual yang terkait. Jika kita ingin tau apa sih ls itu, kita       ketik whatis ls, kita akan mendapatkan deskripsi singkat tentang perintah ls
+    ![Screenshot from 2024-08-30 13-48-41](https://github.com/user-attachments/assets/047c17f3-94b3-4f63-81ae-41b49db745fd)
+
+43. man : untuk menampilkan halaman manual (manual pages) dari perintah, fungsi, atau utilitas. Jika kita ketik man ls, maka kita akan melihat halaman       manual untuk perintah ls
+    ![Screenshot from 2024-08-30 13-52-23](https://github.com/user-attachments/assets/c555fec6-a986-40a9-b80f-b7812ca15e25)
+
+44. find : untuk mencari direktori, dan ketika sudah ketemu, maka akan ditampilkan semua isi yang didalam direktori tersebut. Misalnya kita mau mencari     direktori Pictures, ketik find Pictures, maka akan ditampilkan semua isi file yang ada didalam direktori Pictures
+    ![Screenshot from 2024-08-30 13-54-56](https://github.com/user-attachments/assets/a9540a9f-d313-4ae4-ba4a-8ab3c119a5cb)
+
+45. sudo apt install plocate : untuk menginstal paket plocate
+    ![Screenshot from 2024-08-30 14-01-04](https://github.com/user-attachments/assets/4f5af20b-ff88-4b42-ad81-411d941733f5)
+
+46. locate : untuk menemukan file dan direktori dengan cepat di seluruh sistem file. Jika kita ingin menemukan mp3, kita ketik locate mp3, maka perintah     ini akan mencari dan menampilkan daftar semua file dan direktori di sistem yang namanya mengandung string mp3
+    ![Screenshot from 2024-08-30 14-03-47](https://github.com/user-attachments/assets/246bac33-68ae-4ca6-80b1-f11f829e898e)
+
+47. reboot : untuk merestart atau memulai ulang sistem
+    ![Screenshot from 2024-08-30 14-53-28](https://github.com/user-attachments/assets/af2b9ba1-0037-4703-a79d-50cd9e18037d)
+
+48. shutdown : untuk mematikan atau me-restart sistem dengan cara yang aman
+    ![Screenshot from 2024-08-30 14-56-43](https://github.com/user-attachments/assets/d0c2d778-a8f8-4e7e-82ba-983138b057cf)
+
